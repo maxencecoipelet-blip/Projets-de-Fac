@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1763896765 source:/home/rayan/CodeBlocks/pikachu/pikachu.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<jpeglib.h>
+	<jerror.h>
+
+1763904656 source:/home/maxencecoipelet/Projet SI/pikachu/pikachu.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<jpeglib.h>
+	<jerror.h>
+
