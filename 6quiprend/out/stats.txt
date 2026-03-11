@@ -1,0 +1,102 @@
+----- Partie #1 -----
+Vainqueur(s) :  (min=-1 pts)
+
+Déroulement (extraits):
+  --- GESTIONNAIRE : Nouvelle Partie (2 joueurs, 0 réseau) ---
+  === TOUR 1 ===
+  --- ÉTAT PLATEAU ---
+  R1: 63 
+  R2: 47 
+  R3: 3 
+  R4: 53 
+  --------------------
+
+===== STATISTIQUES — 6 qui prend =====
+
+----- Partie #2 -----
+Vainqueur(s) : J2 (min=2 pts)
+J1 : 18 pts
+J2 : 2 pts
+
+Déroulement (extraits):
+  --- GESTIONNAIRE : Nouvelle Partie (2 joueurs, 0 réseau) ---
+  === TOUR 1 ===
+  --- ÉTAT PLATEAU ---
+  R1: 90 
+  R2: 102 
+  R3: 97 
+  R4: 78 
+  --------------------
+  ACTION : J1 ramasse rangée 1 (3 pts)
+  === TOUR 2 ===
+  --- ÉTAT PLATEAU ---
+  R1: 22 54 
+  R2: 102 
+  R3: 97 
+  R4: 78 
+  --------------------
+  === TOUR 3 ===
+  --- ÉTAT PLATEAU ---
+  R1: 22 54 66 
+  R2: 102 
+  R3: 97 
+  R4: 78 82 
+  --------------------
+  === TOUR 4 ===
+  --- ÉTAT PLATEAU ---
+  R1: 22 54 66 68 76 
+  R2: 102 
+  R3: 97 
+  R4: 78 82 
+  --------------------
+  ACTION : J2 prend la rangée 1 (6e carte, 13 pts)
+  === TOUR 5 ===
+  --- ÉTAT PLATEAU ---
+  R1: 77 79 
+  R2: 102 
+  R3: 97 
+  R4: 78 82 
+  --------------------
+  ACTION : J2 ramasse rangée 2 (1 pts)
+  === TOUR 6 ===
+  --- ÉTAT PLATEAU ---
+  R1: 77 79 
+  R2: 2 44 
+  R3: 97 
+  R4: 78 82 
+  --------------------
+  ACTION : J1 ramasse rangée 1 (6 pts)
+  === TOUR 7 ===
+  --- ÉTAT PLATEAU ---
+  R1: 36 
+  R2: 2 44 46 
+  R3: 97 
+  R4: 78 82 
+  --------------------
+  === TOUR 8 ===
+  --- ÉTAT PLATEAU ---
+  R1: 36 
+  R2: 2 44 46 48 58 
+  R3: 97 
+  R4: 78 82 
+  --------------------
+  ACTION : J1 ramasse rangée 2 (9 pts)
+  === TOUR 9 ===
+  --- ÉTAT PLATEAU ---
+  R1: 36 39 
+  R2: 30 
+  R3: 97 
+  R4: 78 82 
+  --------------------
+  === TOUR 10 ===
+  --- ÉTAT PLATEAU ---
+  R1: 36 39 41 
+  R2: 30 37 
+  R3: 97 
+  R4: 78 82 
+  --------------------
+  ACTION : J2 ramasse rangée 3 (1 pts)
+
+===== RÉSUMÉ GLOBAL =====
+J1 : 1 partie(s), 0 victoire(s), 1 défaite(s), 18 pts total, 18.00 pts/partie
+J2 : 1 partie(s), 1 victoire(s), 0 défaite(s), 2 pts total, 2.00 pts/partie

@@ -1,0 +1,334 @@
+--- GESTIONNAIRE : Nouvelle Partie (2 joueurs, 0 réseau) ---
+GESTIONNAIRE : Paquet mélangé.
+GESTIONNAIRE : Rangée 1 init avec 9
+GESTIONNAIRE : Rangée 2 init avec 29
+GESTIONNAIRE : Rangée 3 init avec 20
+GESTIONNAIRE : Rangée 4 init avec 30
+
+=== TOUR 1 ===
+--- ÉTAT PLATEAU ---
+R1: 9 
+R2: 29 
+R3: 20 
+R4: 30 
+--------------------
+--- ROBOT (J1) : Démarrage ---
+ROBOT 1 : Cartes reçues.
+ROBOT 1 : Joue 15
+LOCAL: J1 joue 15
+--- ROBOT (J2) : Démarrage ---
+ROBOT 2 : Cartes reçues.
+ROBOT 2 : Joue 24
+LOCAL: J2 joue 24
+ACTION : J1 pose 15 sur rangée 1
+ACTION : J2 pose 24 sur rangée 3
+
+=== TOUR 2 ===
+--- ÉTAT PLATEAU ---
+R1: 9 15 
+R2: 29 
+R3: 20 24 
+R4: 30 
+--------------------
+ROBOT 1 : Joue 67
+ROBOT 2 : Joue 57
+LOCAL: J1 joue 67
+LOCAL: J2 joue 57
+ACTION : J2 pose 57 sur rangée 4
+ACTION : J1 pose 67 sur rangée 4
+
+=== TOUR 3 ===
+--- ÉTAT PLATEAU ---
+R1: 9 15 
+R2: 29 
+R3: 20 24 
+R4: 30 57 67 
+--------------------
+ROBOT 2 : Joue 92
+ROBOT 1 : Joue 18
+LOCAL: J2 joue 92
+LOCAL: J1 joue 18
+ACTION : J1 pose 18 sur rangée 1
+ACTION : J2 pose 92 sur rangée 4
+
+=== TOUR 4 ===
+--- ÉTAT PLATEAU ---
+R1: 9 15 18 
+R2: 29 
+R3: 20 24 
+R4: 30 57 67 92 
+--------------------
+ROBOT 2 : Joue 60
+ROBOT 1 : Joue 19
+LOCAL: J2 joue 60
+LOCAL: J1 joue 19
+ACTION : J1 pose 19 sur rangée 1
+ACTION : J2 pose 60 sur rangée 2
+
+=== TOUR 5 ===
+--- ÉTAT PLATEAU ---
+R1: 9 15 18 19 
+R2: 29 60 
+R3: 20 24 
+R4: 30 57 67 92 
+--------------------
+ROBOT 1 : Joue 25
+ROBOT 2 : Joue 51
+LOCAL: J1 joue 25
+LOCAL: J2 joue 51
+ACTION : J1 pose 25 sur rangée 3
+ACTION : J2 pose 51 sur rangée 3
+
+=== TOUR 6 ===
+--- ÉTAT PLATEAU ---
+R1: 9 15 18 19 
+R2: 29 60 
+R3: 20 24 25 51 
+R4: 30 57 67 92 
+--------------------
+ROBOT 1 : Joue 5
+ROBOT 2 : Joue 37
+LOCAL: J1 joue 5
+LOCAL: J2 joue 37
+ACTION : Demande choix rangée à J1 (carte 5)
+ROBOT 1 : Choisit rangée 3 au hasard
+RÉPONSE : J1 choisit la rangée 3
+ACTION : J1 ramasse rangée 3 (7 pts)
+ACTION : J2 pose 37 sur rangée 1
+
+=== TOUR 7 ===
+--- ÉTAT PLATEAU ---
+R1: 9 15 18 19 37 
+R2: 29 60 
+R3: 5 
+R4: 30 57 67 92 
+--------------------
+ROBOT 1 : Joue 17
+ROBOT 2 : Joue 56
+LOCAL: J1 joue 17
+LOCAL: J2 joue 56
+ACTION : J1 pose 17 sur rangée 3
+ACTION : J2 prend la rangée 1 (6e carte, 6 pts)
+
+=== TOUR 8 ===
+--- ÉTAT PLATEAU ---
+R1: 56 
+R2: 29 60 
+R3: 5 17 
+R4: 30 57 67 92 
+--------------------
+ROBOT 1 : Joue 95
+ROBOT 2 : Joue 55
+LOCAL: J1 joue 95
+LOCAL: J2 joue 55
+ACTION : J2 pose 55 sur rangée 3
+ACTION : J1 pose 95 sur rangée 4
+
+=== TOUR 9 ===
+--- ÉTAT PLATEAU ---
+R1: 56 
+R2: 29 60 
+R3: 5 17 55 
+R4: 30 57 67 92 95 
+--------------------
+ROBOT 1 : Joue 28
+ROBOT 2 : Joue 81
+LOCAL: J1 joue 28
+LOCAL: J2 joue 81
+ACTION : Demande choix rangée à J1 (carte 28)
+ROBOT 1 : Choisit rangée 3 au hasard
+RÉPONSE : J1 choisit la rangée 3
+ACTION : J1 ramasse rangée 3 (10 pts)
+ACTION : J2 pose 81 sur rangée 2
+
+=== TOUR 10 ===
+--- ÉTAT PLATEAU ---
+R1: 56 
+R2: 29 60 81 
+R3: 28 
+R4: 30 57 67 92 95 
+--------------------
+ROBOT 2 : Joue 93
+ROBOT 1 : Joue 1
+LOCAL: J2 joue 93
+LOCAL: J1 joue 1
+ACTION : Demande choix rangée à J1 (carte 1)
+ROBOT 1 : Choisit rangée 4 au hasard
+RÉPONSE : J1 choisit la rangée 4
+ACTION : J1 ramasse rangée 4 (8 pts)
+ACTION : J2 pose 93 sur rangée 2
+
+--- FIN_PARTIE_SCORES ---
+SCORE_FINAL_J1: 25
+SCORE_FINAL_J2: 6
+--- FIN ---
+--- GESTIONNAIRE : Nouvelle Partie (2 joueurs, 0 réseau) ---
+GESTIONNAIRE : Paquet mélangé.
+GESTIONNAIRE : Rangée 1 init avec 70
+GESTIONNAIRE : Rangée 2 init avec 91
+GESTIONNAIRE : Rangée 3 init avec 39
+GESTIONNAIRE : Rangée 4 init avec 87
+
+=== TOUR 1 ===
+--- ÉTAT PLATEAU ---
+R1: 70 
+R2: 91 
+R3: 39 
+R4: 87 
+--------------------
+--- ROBOT (J1) : Démarrage ---
+ROBOT 1 : Cartes reçues.
+ROBOT 1 : Joue 84
+LOCAL: J1 joue 84
+--- ROBOT (J2) : Démarrage ---
+ROBOT 2 : Cartes reçues.
+ROBOT 2 : Joue 48
+LOCAL: J2 joue 48
+ACTION : J2 pose 48 sur rangée 3
+ACTION : J1 pose 84 sur rangée 1
+
+=== TOUR 2 ===
+--- ÉTAT PLATEAU ---
+R1: 70 84 
+R2: 91 
+R3: 39 48 
+R4: 87 
+--------------------
+ROBOT 1 : Joue 9
+ROBOT 2 : Joue 90
+LOCAL: J1 joue 9
+LOCAL: J2 joue 90
+ACTION : Demande choix rangée à J1 (carte 9)
+ROBOT 1 : Choisit rangée 3 au hasard
+RÉPONSE : J1 choisit la rangée 3
+ACTION : J1 ramasse rangée 3 (2 pts)
+ACTION : J2 pose 90 sur rangée 4
+
+=== TOUR 3 ===
+--- ÉTAT PLATEAU ---
+R1: 70 84 
+R2: 91 
+R3: 9 
+R4: 87 90 
+--------------------
+ROBOT 2 : Joue 7
+ROBOT 1 : Joue 67
+LOCAL: J2 joue 7
+LOCAL: J1 joue 67
+ACTION : Demande choix rangée à J2 (carte 7)
+ROBOT 2 : Choisit rangée 2 au hasard
+RÉPONSE : J2 choisit la rangée 2
+ACTION : J2 ramasse rangée 2 (1 pts)
+ACTION : J1 pose 67 sur rangée 3
+
+=== TOUR 4 ===
+--- ÉTAT PLATEAU ---
+R1: 70 84 
+R2: 7 
+R3: 9 67 
+R4: 87 90 
+--------------------
+ROBOT 1 : Joue 41
+ROBOT 2 : Joue 76
+LOCAL: J1 joue 41
+LOCAL: J2 joue 76
+ACTION : J1 pose 41 sur rangée 2
+ACTION : J2 pose 76 sur rangée 3
+
+=== TOUR 5 ===
+--- ÉTAT PLATEAU ---
+R1: 70 84 
+R2: 7 41 
+R3: 9 67 76 
+R4: 87 90 
+--------------------
+ROBOT 1 : Joue 71
+ROBOT 2 : Joue 103
+LOCAL: J1 joue 71
+LOCAL: J2 joue 103
+ACTION : J1 pose 71 sur rangée 2
+ACTION : J2 pose 103 sur rangée 4
+
+=== TOUR 6 ===
+--- ÉTAT PLATEAU ---
+R1: 70 84 
+R2: 7 41 71 
+R3: 9 67 76 
+R4: 87 90 103 
+--------------------
+ROBOT 2 : Joue 36
+ROBOT 1 : Joue 25
+LOCAL: J2 joue 36
+LOCAL: J1 joue 25
+ACTION : Demande choix rangée à J1 (carte 25)
+ROBOT 1 : Choisit rangée 3 au hasard
+RÉPONSE : J1 choisit la rangée 3
+ACTION : J1 ramasse rangée 3 (3 pts)
+ACTION : J2 pose 36 sur rangée 3
+
+=== TOUR 7 ===
+--- ÉTAT PLATEAU ---
+R1: 70 84 
+R2: 7 41 71 
+R3: 25 36 
+R4: 87 90 103 
+--------------------
+ROBOT 1 : Joue 27
+ROBOT 2 : Joue 94
+LOCAL: J1 joue 27
+LOCAL: J2 joue 94
+ACTION : Demande choix rangée à J1 (carte 27)
+ROBOT 1 : Choisit rangée 2 au hasard
+RÉPONSE : J1 choisit la rangée 2
+ACTION : J1 ramasse rangée 2 (3 pts)
+ACTION : J2 pose 94 sur rangée 1
+
+=== TOUR 8 ===
+--- ÉTAT PLATEAU ---
+R1: 70 84 94 
+R2: 27 
+R3: 25 36 
+R4: 87 90 103 
+--------------------
+ROBOT 2 : Joue 1
+ROBOT 1 : Joue 16
+LOCAL: J2 joue 1
+LOCAL: J1 joue 16
+ACTION : Demande choix rangée à J2 (carte 1)
+ROBOT 2 : Choisit rangée 3 au hasard
+RÉPONSE : J2 choisit la rangée 3
+ACTION : J2 ramasse rangée 3 (3 pts)
+ACTION : J1 pose 16 sur rangée 3
+
+=== TOUR 9 ===
+--- ÉTAT PLATEAU ---
+R1: 70 84 94 
+R2: 27 
+R3: 1 16 
+R4: 87 90 103 
+--------------------
+ROBOT 2 : Joue 29
+ROBOT 1 : Joue 42
+LOCAL: J2 joue 29
+LOCAL: J1 joue 42
+ACTION : J2 pose 29 sur rangée 2
+ACTION : J1 pose 42 sur rangée 2
+
+=== TOUR 10 ===
+--- ÉTAT PLATEAU ---
+R1: 70 84 94 
+R2: 27 29 42 
+R3: 1 16 
+R4: 87 90 103 
+--------------------
+ROBOT 2 : Joue 59
+ROBOT 1 : Joue 34
+LOCAL: J2 joue 59
+LOCAL: J1 joue 34
+ACTION : J1 pose 34 sur rangée 3
+ACTION : J2 pose 59 sur rangée 2
+
+--- FIN_PARTIE_SCORES ---
+SCORE_FINAL_J1: 8
+SCORE_FINAL_J2: 4
+--- FIN ---
