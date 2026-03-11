@@ -1,0 +1,26 @@
+[ {
+  "nom" : "Picanto",
+  "marque" : "Kia",
+  "nbChevaux" : 80,
+  "nbPlaces" : 5
+}, {
+  "nom" : "3008",
+  "marque" : "Peugeot",
+  "nbChevaux" : 130,
+  "nbPlaces" : 7
+}, {
+  "nom" : "Swift",
+  "marque" : "Suzuki",
+  "nbChevaux" : 90,
+  "nbPlaces" : 4
+}, {
+  "nom" : "Yaris",
+  "marque" : "Toyota",
+  "nbChevaux" : 120,
+  "nbPlaces" : 5
+}, {
+  "nom" : "Corolla",
+  "marque" : "Toyota",
+  "nbChevaux" : 140,
+  "nbPlaces" : 5
+} ]
